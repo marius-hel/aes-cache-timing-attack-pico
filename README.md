@@ -1,4 +1,8 @@
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
+
 # Introduction
+This material was originally developed as part of an assignment of the Operating systems for embedded systems course delivered at Politecnico di Torino by Prof. Stefano Di Carlo.
+
 Basic repository aiming at testing both FreeRTOS and cache-timing attacks on AES, on Raspberry Pi Pico board.
 Largely inspired from my [lab about cache-timing attacks on Raspberry Pi 4](https://github.com/marius-hel/aes-cache-timing-attack-pi4) which is entirely based on [*Cache-timing attacks on AES* by Daniel J. Bernstein](https://cr.yp.to/antiforgery/cachetiming-20050414.pdf).
 
